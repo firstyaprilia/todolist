@@ -24,7 +24,7 @@ Website sederhana berbasis PHP untuk mencatat dan mengelola tugas harian.
 1. Pastikan XAMPP sudah terpasang.
 2. Salin folder proyek ke folder `htdocs`.
 3. Jalankan Apache melalui XAMPP.
-4. Buka browser dan akses `http://localhost/todolist-index.php/`.
+4. Buka browser dan akses `http://localhost/todolist/index.php/`.
 
 ## Kontributor
 - Firsty Aprilia Sari Gurium
